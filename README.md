@@ -1,6 +1,7 @@
 # Our ForgetNet/G-ForgetNet code is coming soon! 
 
-In the meantime, check out our paper ["On the Markov Property of Neural Algorithmic Reasoning: Analyses and Methods"]("https://arxiv.org/abs/2403.04929").
+In the meantime, check out our paper ["On the Markov Property of Neural Algorithmic Reasoning: Analyses and Methods"](https://arxiv.org/abs/2403.04929).
+
 
 ## Citation
 
